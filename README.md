@@ -1,6 +1,8 @@
 # PVTCARD
 
-## Security protected trove of  your accomplishments.
+## Private online resume versioning.
+
+## MEAN STACK
 
 This is a product being built by the Assembly community. You can help push this idea forward by visiting [https://assembly.com/pvtcard](https://assembly.com/pvtcard).
 
