@@ -2,7 +2,9 @@
 
 ## Private online resume versioning.
 
-## MEAN STACK
+### MEAN STACK
+
+##Getting Started
 
 This is a product being built by the Assembly community. You can help push this idea forward by visiting [https://assembly.com/pvtcard](https://assembly.com/pvtcard).
 
