@@ -2,6 +2,8 @@
 
 ## Private online resume versioning.
 
+One online resume. Many versions unique to each application.
+
 ### MEAN STACK
 
 ##Getting Started
